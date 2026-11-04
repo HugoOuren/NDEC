@@ -7,6 +7,11 @@ Consulta los [apuntes y materiales del módulo NDEC](https://www.apuntesinformat
 ## Contenido
 
 - **ud00/**: [entrevista inicial](ud00/entrevista.md) para conocer tu punto de partida.
+- **ud01/**: [gobierno y relaciones con terceros](ud01/enunciado.md) de Nébula Segura,
+  con [rúbrica de autoevaluación](ud01/rubrica.md).
+
+Las prácticas se aplican al [caso Nébula Segura](https://www.apuntesinformaticafp.com/actividades/ndec/caso_nebula_segura.html).
+Cada enunciado aporta los antecedentes necesarios para trabajar de forma independiente.
 
 ## Cómo trabajar
 
